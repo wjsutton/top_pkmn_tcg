@@ -2705,8 +2705,8 @@
 "Nanu (Full Art)","nanu",NA
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
@@ -5048,7 +5048,7 @@
 "Misty's Determination (Full Art)","determination",NA
 "Nidoking","nidoking","Nidoking"
 "Nidoking BREAK","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
 "Ninetales BREAK","ninetales","Ninetales"
@@ -5124,6 +5124,7 @@
 "Charizard (SM Team Up)","charizard","Charizard"
 "Charizard (WotC Legendary Collection)","charizard","Charizard"
 "Cherrim - 008/163","cherrim","Cherrim"
+"Cinderace - 034/202 (Non-Holo)","cinderace","Cinderace"
 "Cinderace - 036/202 (Cracked Ice Holo)","cinderace","Cinderace"
 "Cobalion (Battle Arena Deck Exclusive)","cobalion","Cobalion"
 "Cofagrigus - 52/108 (Cracked Ice Holo)","cofagrigus","Cofagrigus"
@@ -5178,6 +5179,7 @@
 "Fire Energy (2013 Unnumbered)","fire energy",NA
 "Flygon (DPPt Rising Rivals)","flygon","Flygon"
 "Froslass (SM - Unified Minds)","froslass","Froslass"
+"Frosmoth - 064/202 (Non-Holo)","frosmoth","Frosmoth"
 "Galarian Darmanitan - 44/189 (Cracked Ice Holo)","darmanitan","Darmanitan"
 "Galarian Obstagoon - 119/202","obstagoon","Obstagoon"
 "Galarian Perrserker (SWSH Base Set)","perrserker","Perrserker"
@@ -5497,7 +5499,7 @@
 "Meowth","meowth","Meowth"
 "Monferno","monferno","Monferno"
 "Nidoking","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Ninja Boy","ninja boy",NA
 "Nosepass","nosepass","Nosepass"
@@ -8503,8 +8505,8 @@
 "Muk (Team Plasma)","muk","Muk"
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Noctowl","noctowl","Noctowl"
@@ -9645,8 +9647,8 @@
 "Mew (Prime)","mew","Mew"
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Palkia & Dialga Legend (Bottom)","palkia","Palkia"
@@ -9898,7 +9900,7 @@
 "Electivire (Prerelease Promo)","electivire","Electivire"
 "Electivire (Prerelease Promo) [Staff]","electivire","Electivire"
 "Entei","entei","Entei"
-"Feraligatr","feraligatr","Feraligatr"
+"Feraligatr (Prime)","feraligatr","Feraligatr"
 "Hitmonchan","hitmonchan","Hitmonchan"
 "Hitmonlee","hitmonlee","Hitmonlee"
 "Ho-oh","ho-oh","Ho-oh"
@@ -9927,7 +9929,7 @@
 "Tropical Tidal Wave - HGSS18 (Worlds 2010 Staff)","tropical tidal wave hg",NA
 "Tropical Tidal Wave - HGSS18 (Worlds 2010 Top 16)","tropical tidal wave hg",NA
 "Tropical Tidal Wave - HGSS18 (Worlds 2010 Top 32)","tropical tidal wave hg",NA
-"Typhlosion","typhlosion","Typhlosion"
+"Typhlosion (Prime)","typhlosion","Typhlosion"
 "Wobbuffet","wobbuffet","Wobbuffet"
 "Aerodactyl","aerodactyl","Aerodactyl"
 "Arceus (AR1)","arceus","Arceus"
@@ -10768,8 +10770,8 @@
 "Natu (Delta Species)","natu","Natu"
 "Nidoking (Delta Species)","nidoking","Nidoking"
 "Nidoqueen (Delta Species)","nidoqueen","Nidoqueen"
-"Nidoran F (Delta Species)","nidoran f","Nidoran f"
-"Nidoran M (Delta Species)","nidoran m","Nidoran m"
+"Nidoran F (Delta Species)","nidoran f",NA
+"Nidoran M (Delta Species)","nidoran m",NA
 "Nidorina (Delta Species)","nidorina","Nidorina"
 "Nidorino (Delta Species)","nidorino","Nidorino"
 "Ninetales (Delta Species)","ninetales","Ninetales"
@@ -10941,8 +10943,8 @@
 "Dratini (66 - Delta Species)","dratini","Dratini"
 "Drowzee","drowzee","Drowzee"
 "Dual Ball","dual ball",NA
-"Eevee","eevee","Eevee"
-"Eevee (Delta Species)","eevee","Eevee"
+"Eevee - 068/113","eevee","Eevee"
+"Eevee - 069/113","eevee","Eevee"
 "Espeon (Delta Species)","espeon","Espeon"
 "Flareon (Delta Species)","flareon","Flareon"
 "Flareon ex","flareon","Flareon"
@@ -11743,7 +11745,7 @@
 "Nidoking (150)","nidoking","Nidoking"
 "Nidoking (24)","nidoking","Nidoking"
 "Nidoking (H18)","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
 "Ninetales (H19)","ninetales","Ninetales"
@@ -12202,7 +12204,7 @@
 "Metapod","metapod","Metapod"
 "Mewtwo","mewtwo","Mewtwo"
 "Nidoking","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
 "Onix","onix","Onix"
@@ -12303,7 +12305,7 @@
 "Metapod","metapod","Metapod"
 "Mewtwo","mewtwo","Mewtwo"
 "Nidoking","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
 "Onix","onix","Onix"
@@ -12418,8 +12420,8 @@
 "Mr. Mime","mr. mime","Mr. Mime"
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
@@ -12943,8 +12945,8 @@
 "Multi Energy","multi energy",NA
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Onix","onix","Onix"
@@ -13048,8 +13050,8 @@
 "Giovanni's Meowth (74)","meowth","Meowth"
 "Giovanni's Nidoking","nidoking","Nidoking"
 "Giovanni's Nidoqueen","nidoqueen","Nidoqueen"
-"Giovanni's Nidoran F","nidoran f","Nidoran f"
-"Giovanni's Nidoran M","nidoran m","Nidoran m"
+"Giovanni's Nidoran F","nidoran f",NA
+"Giovanni's Nidoran M","nidoran m",NA
 "Giovanni's Nidorina","nidorina","Nidorina"
 "Giovanni's Nidorino","nidorino","Nidorino"
 "Giovanni's Persian","persian","Persian"
@@ -13685,7 +13687,7 @@
 "Mr. Mime (6)","mr. mime","Mr. Mime"
 "Nidoqueen (23)","nidoqueen","Nidoqueen"
 "Nidoqueen (7)","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
+"Nidoran F","nidoran f",NA
 "Nidorina","nidorina","Nidorina"
 "Oddish","oddish","Oddish"
 "Paras","paras","Paras"
@@ -13926,8 +13928,8 @@
 "Mysterious Fossil","mysterious fossil",NA
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Ninetales","ninetales","Ninetales"
@@ -14167,7 +14169,7 @@
 "Multi Energy","multi energy",NA
 "Murkrow","murkrow","Murkrow"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
+"Nidoran F","nidoran f",NA
 "Nidorina","nidorina","Nidorina"
 "Night Maintenance","night maintenance",NA
 "Ninetales","ninetales","Ninetales"
@@ -15243,8 +15245,8 @@
 "Munchlax (70)","munchlax","Munchlax"
 "Nidoking","nidoking","Nidoking"
 "Nidoqueen","nidoqueen","Nidoqueen"
-"Nidoran F","nidoran f","Nidoran f"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran F","nidoran f",NA
+"Nidoran M","nidoran m",NA
 "Nidorina","nidorina","Nidorina"
 "Nidorino","nidorino","Nidorino"
 "Nuzleaf","nuzleaf","Nuzleaf"
@@ -15582,7 +15584,7 @@
 "Murkrow","murkrow","Murkrow"
 "Natu","natu","Natu"
 "Nidoking","nidoking","Nidoking"
-"Nidoran M","nidoran m","Nidoran m"
+"Nidoran M","nidoran m",NA
 "Nidorino","nidorino","Nidorino"
 "Night Maintenance","night maintenance",NA
 "Phanpy","phanpy","Phanpy"
@@ -15755,8 +15757,8 @@
 "Natu","natu","Natu"
 "Nidoqueen","nidoqueen","Nidoqueen"
 "Nidoqueen (H21)","nidoqueen","Nidoqueen"
-"Nidoran F (81)","nidoran f","Nidoran f"
-"Nidoran F (82)","nidoran f","Nidoran f"
+"Nidoran F (81)","nidoran f",NA
+"Nidoran F (82)","nidoran f",NA
 "Nidorina","nidorina","Nidorina"
 "Noctowl","noctowl","Noctowl"
 "Omanyte","omanyte","Omanyte"
