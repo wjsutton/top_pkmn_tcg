@@ -10,8 +10,6 @@ top_25 <- arrange(top_25,market_price_rank)
 missing <- 'https://shop.tcgplayer.com/pokemon/xy-promos/champions-festival-2016-staff'
 replacement <- 'https://www.magicmadhouse.co.uk/images/x-y-promo-xy176-champions-festival-staff-p238914-309000_medium.jpg'
 
-#top_25 <- filter(top_25,card_url != missing)
-
 images <- gsub('_25w','_200w',top_25$img_url)
 
 images <- if_else(images == 'https://tcgplayer-cdn.tcgplayer.com/product/199329_200w.jpg',replacement,images)
@@ -22,5 +20,3 @@ for(i in 1:length(images)){
   download.file(images[i],paste0('images/',num,'.jpg'), mode = 'wb')
 }
 
-
-#download.file(images[2],'test.jpg', mode = 'wb')
