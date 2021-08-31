@@ -55,6 +55,6 @@ pkmn_df$last_updated <- Sys.Date()
 pkmn_df[is.na(pkmn_df)] <- ""
 
 # write data locally
-write.csv(pkmn_df,'data/pkmn_card_prices.csv',row.names = F)
+write.csv(pkmn_df,'data/20210831_pkmn_card_prices.csv',row.names = F)
 
 
