@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date
+from pathlib import Path
 
 today = date.today()
 
@@ -211,6 +212,11 @@ for i in range(len(packs)):
 
 print('Done!')
 print(len(output_df))
+
+my_file = Path("data\\pkmn_tcg_stockmarket.csv")
+if my_file.is_file():
+    previous_data = pd.read_csv('data\\pkmn_tcg_stockmarket.csv')
+    output_df = output_df.append(previous_data, ignore_index=True)
 
 output_df.to_csv('data\\pkmn_tcg_stockmarket.csv', index=False)
 
